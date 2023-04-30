@@ -1,0 +1,49 @@
+﻿@model MoodleProject.Models.Users
+
+@{
+    ViewData["Title"] = "Details";
+}
+<div class="row-11 d-flex justify-content-center align-items-center" style="height: 500px; width:600px;">
+    <h1>Details</h1>
+
+    <div>
+        <h4>Users</h4>
+        <hr />
+        <dl class="row">
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.LastName)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.LastName)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Password)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Password)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.permisson_level)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.permisson_level)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>

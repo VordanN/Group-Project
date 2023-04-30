@@ -1,0 +1,135 @@
+﻿@model Courses
+@{
+    int selected_holder_id = 0;
+
+    void set(int num)
+    {
+        selected_holder_id=num;
+    }
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>@Model.Name</h1>
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            @foreach (var holder in Model.Holders)
+            {
+                <div class="card mb-3">
+                    <div class="card-header">
+                        <h2>@holder.Name</h2>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        @foreach (var task in holder.Tasks)
+                        {
+                            <li class="list-group-item">@task.Name</li>
+                            <li class="list-group-item">@task.Description</li>
+                            <li class="list-group-item">@task.End_Date</li>
+                        }
+                    </ul>
+                    <div class="card-footer text-right">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addTaskModal">Add Task</button>
+                        @{set(holder.Id);}
+                    </div>
+                </div>
+            }
+            <div class="card mb-3">
+                <div class="card-header">
+                    <h2>Add Holder</h2>
+                </div>
+                <div class="card-footer text-right">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addHolderModal">Add Holder</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="addTaskModal" tabindex="-1" role="dialog" aria-labelledby="addTaskModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="addTaskModalLabel">Add Task</h5>
+                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form method="post" asp-action="AddTask" asp-controller="Course" enctype="multipart/form-data">
+                    
+                    <div class="form-group">
+                        <label for="taskName">Task Name</label>
+                        <input type="text" class="form-control" id="taskName" name="taskName" placeholder="Enter task name">
+                    </div>
+                    <div class="form-group">
+                        <label for="taskDescription">Task Description</label>
+                        <textarea class="form-control" id="taskDescription" name="taskDescription" rows="3" placeholder="Enter task description"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="taskEndDate">Task End Date</label>
+                        <input type="text" class="form-control" name="taskEndDate" id="taskEndDate" placeholder="Enter task end date">
+                    </div>
+                    <div class="form-group">
+                        <label for="fileInput">Choose File</label>
+                        <div class="custom-file">
+                            <input type="file" class="custom-file-input" id="fileInput" name="fileInput">
+                            <label class="custom-file-label" for="fileInput">Choose file</label>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        
+                        <label for="taskUrl">Url</label>
+                        <input type="text" class="form-control" name="taskUrl" id="taskUrl" placeholder="Url">
+                    </div>
+                    <input type="hidden" name="holderId" value="@selected_holder_id">
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Save changes</button>
+                    </div>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+<!-- Add Holder Modal -->
+<div class="modal fade" id="addHolderModal" tabindex="-1" role="dialog" aria-labelledby="addHolderModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="addHolderModalLabel">Add Holder</h5>
+                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form method="post" asp-action="AddHolder" asp-controller="Course">
+                    <div class="form-group">
+                        <label for="holderNameInput">Name</label>
+                        <input type="text" class="form-control" name="holderNameInput" id="holderNameInput" placeholder="Enter Holder Name">
+                    </div>
+                    <input type="hidden" name="course_Id" value="@Model.Id">
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Save Holder</button>
+                    </div>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+

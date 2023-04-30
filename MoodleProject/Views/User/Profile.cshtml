@@ -1,0 +1,14 @@
+﻿@model MoodleProject.Models.Users
+
+<div class="row justify-content-center align-items-center" style="height: 500px;">
+    <div class="col-md-4">
+        <div class="card mb-4">
+            <div class="card-header">Profile</div>
+            <div class="card-body">
+                <h5 class="card-title">@Model.Name @Model.LastName</h5>
+                <p class="card-text">Email: @Model.Email</p>
+                <a asp-action="Edit" asp-controller="User" class="btn btn-primary">Edit Profile</a>
+            </div>
+        </div>
+    </div>
+</div>

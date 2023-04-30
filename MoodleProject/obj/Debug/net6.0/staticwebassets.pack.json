@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MoodleProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MoodleProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\09f6f687-adff-4f2b-bf71-6652f21d01b2.png",
+      "PackagePath": "staticwebassets\\uploads\\09f6f687-adff-4f2b-bf71-6652f21d01b2.png"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\17fc33da-50ed-495d-b919-1d853ef7779d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\17fc33da-50ed-495d-b919-1d853ef7779d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\194d510a-0a4b-475c-8e91-9055e2b97ac2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\194d510a-0a4b-475c-8e91-9055e2b97ac2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\29c60201-3308-47fd-8446-3b49de5773c2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\29c60201-3308-47fd-8446-3b49de5773c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\2a271116-663e-40d1-81bc-95d1e2038909.png",
+      "PackagePath": "staticwebassets\\uploads\\2a271116-663e-40d1-81bc-95d1e2038909.png"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\2dba5df6-384f-48d9-8e4f-c9fe2318b18e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2dba5df6-384f-48d9-8e4f-c9fe2318b18e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\3c53c6ec-0021-4691-8076-7abbb10e399e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3c53c6ec-0021-4691-8076-7abbb10e399e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\4e11e395-9903-41c1-9c4a-d9e94a7da3df.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4e11e395-9903-41c1-9c4a-d9e94a7da3df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\70c13086-762a-4190-a700-be231da7c46f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\70c13086-762a-4190-a700-be231da7c46f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\75bde49c-4563-4c19-a8a7-f0be0719a464.jpg",
+      "PackagePath": "staticwebassets\\uploads\\75bde49c-4563-4c19-a8a7-f0be0719a464.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\7df908ee-101c-41e1-b6ec-f945e3b6c50d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7df908ee-101c-41e1-b6ec-f945e3b6c50d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\91754564-d2ed-48cb-8d8d-49856cacd8ab.jpg",
+      "PackagePath": "staticwebassets\\uploads\\91754564-d2ed-48cb-8d8d-49856cacd8ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\9eb83a21-e32e-4284-bbe0-028a670ed22a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9eb83a21-e32e-4284-bbe0-028a670ed22a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\c9ab02d5-c512-469c-9998-ae4b1bcf16b6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c9ab02d5-c512-469c-9998-ae4b1bcf16b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\d206a4e2-3e14-4ca8-9464-08343f1d87fc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d206a4e2-3e14-4ca8-9464-08343f1d87fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\ef4e8706-a6fb-4b0b-8257-0287445d6ab2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ef4e8706-a6fb-4b0b-8257-0287445d6ab2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel\\source\\repos\\MoodleProject\\MoodleProject\\wwwroot\\uploads\\fa174cd1-16f8-4b53-b08b-c7577f80987f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fa174cd1-16f8-4b53-b08b-c7577f80987f.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MoodleProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MoodleProject.props",
+      "PackagePath": "build\\MoodleProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MoodleProject.props",
+      "PackagePath": "buildMultiTargeting\\MoodleProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MoodleProject.props",
+      "PackagePath": "buildTransitive\\MoodleProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

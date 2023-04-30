@@ -1,0 +1,35 @@
+﻿@model Courses
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>@Model.Name</h1>
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            @foreach (var holder in Model.Holders)
+            {
+                <div class="card mb-3">
+                    <div class="card-header">
+                        <h2>@holder.Name</h2>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        @foreach (var task in holder.Tasks)
+                        {
+                            <img src="@task.File_Path" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">@task.Name</h5>
+                                <p class="card-text">@task.Description</p>
+                                <a href="@task.Url" class="btn btn-primary">Look</a>
+                            </div>
+                        }
+                    </ul>
+                    
+                </div>
+            }
+            </div>
+        </div>
+    </div>
